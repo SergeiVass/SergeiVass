@@ -1,0 +1,55 @@
+body {
+   max-width: 1200px;
+   margin: 0 auto;
+}
+.wrapp {
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: -ms-flex;
+   margin-top: 30px;
+}
+
+.column {
+   padding-left: 30px;
+}
+
+.block {
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: -ms-flex;
+   /* border-bottom: solid 1px; */
+   padding: 10px 0;
+   border-bottom: solid 1px black;
+}
+
+p {
+   margin: 5px 0;
+}
+
+h3 {
+   margin: 5px 0;
+   padding: 0 5px;
+   margin-block-start: auto;
+   margin-block-end: auto;
+
+}
+
+button {
+   margin: 15px 50px;
+   padding: 15px 30px;
+}
+
+table {
+   border-collapse: collapse;
+   margin: 0 50px;
+   margin-bottom: 50px;
+}
+
+td {
+   border: solid 1px;
+   padding: 0 10px;
+}
+
+input {
+   padding: 2px 0;
+}
